@@ -16,6 +16,11 @@ source venv/bin/activate
 pip install -r req.txt
 ```
 
+You can also use pipenv as a package manager to build a virtual environment
+
+```shell script
+pipenv install
+```
 
 ## Project Structure
 
